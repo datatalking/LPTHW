@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# filename ~/sbox/LPTHW/mystuff/ex2.py
+
 print("Hello World")
 print("Hello Again")
 print("I like typing it is fun")

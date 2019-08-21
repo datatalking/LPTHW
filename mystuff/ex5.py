@@ -1,4 +1,5 @@
 # -*- coding: utf-8 -*-
+# filename ~/sbox/LPTHW/mystuff/ex5.py
 
 name = 'Zed A. Shaw'
 age = 35 # not a lie

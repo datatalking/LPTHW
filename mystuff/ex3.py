@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# filename ~/sbox/LPTHW/mystuff/ex3.py
+
 math_symbols = "+ plus, - minus, / slash, *asterick, % percent, < less-than, > greater-than, <= less-than-equal, >= greater-than-equal"
 
 print("I will now count my chickens:") # begins the script with a classic counting joke

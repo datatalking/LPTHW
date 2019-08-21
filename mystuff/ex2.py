@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# filename ~/sbox/LPTHW/mystuff/ex2.py
+
 # A comment, this is so you can read your program later.
 # Anything after the # is ignored by python
 
