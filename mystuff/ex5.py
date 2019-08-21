@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 name = 'Zed A. Shaw'
 age = 35 # not a lie
 height = 74 # inches
