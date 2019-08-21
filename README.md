@@ -3,6 +3,9 @@ My kata for Zed Shaw's Learn Python The Hard Way
 
 ## Causal Abstract
 A theory on robust education methods to engrain deep model or mathmatical expertise.
+1. Open LPTHW on 1/2 of left monitor, sublime on 2/2 of left monitor
+2. Open terminal on 1/3 of right monitor, webbrowser on 2/3 of right
+3. Work through his tutorial, retype KATA class creator... need to find it.
 
 A daily routine of practice until you can't get it wrong while maintaining a variable balance betweeen creation and discovery of your highest pritority.
 
