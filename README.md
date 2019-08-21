@@ -14,9 +14,9 @@ This repo uses material sourced from Zed's work and I added a bit of my own util
 # use this ==> as resource "https://product.hubspot.com/blog/git-and-github-tutorial-for-beginners"
 
 # starting
-0.01 this presuposes you have git, pip, python and have a directory you are pulling from. (maybe one day I will have a root start .sh routine (someday))
-0. from bash cli (terminal) type mkdir then the name of the directory that you want to create. for Zed Shaw's Learn Python The Hard Way i named the directory LPTHW... see what I did there.
-1. to get started type 'git clone https://github.com/datatalking/LPTHW' into the bash command line.
+1.01 this presuposes you have git, pip, python and have a directory you are pulling from. (maybe one day I will have a root start .sh routine (someday))
+1.02 from bash cli (terminal) type mkdir then the name of the directory that you want to create. for Zed Shaw's Learn Python The Hard Way i named the directory LPTHW... see what I did there.
+1.03 to get started type 'git clone https://github.com/datatalking/LPTHW' into the bash command line.
 2. then you need to type up the next lesson
   2a. if you have never done git, first type git status
   2b. you should see  'On branch master
