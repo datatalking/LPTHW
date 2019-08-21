@@ -27,5 +27,15 @@ This repo uses material sourced from Zed's work and I added a bit of my own util
 4. "git add ." adds all to commit stage (not sure about recusive subs)
 5. "git commit -m 'message' " pushes the command back to the repo
 6. "git checkout -b '<branch name>' " then hit enter, then type "git branch" to confirm you wanted this done.
+7. "git push" should show something like
+    * "Enumerating objects: 15, done.
+    * Counting objects: 100% (15/15), done.
+    * Delta compression using up to 8 threads
+    * Compressing objects: 100% (8/8), done.
+    * Writing objects: 100% (8/8), 989 bytes | 989.00 KiB/s, done.
+    * Total 8 (delta 5), reused 0 (delta 0)
+    * remote: Resolving deltas: 100% (5/5), completed with 5 local objects.
+    * To https://github.com/datatalking/LPTHW.git
+    * 882d9a7..1794c77  master -> master"
 
 
