@@ -3,6 +3,9 @@ My kata for Zed Shaw's Learn Python The Hard Way
 
 ## Causal Abstract
 A theory on robust education methods to engrain deep model or mathmatical expertise.
+1. Open LPTHW on 1/2 of left monitor, sublime on 2/2 of left monitor
+2. Open terminal on 1/3 of right monitor, webbrowser on 2/3 of right
+3. Work through his tutorial, retype KATA class creator... need to find it.
 
 A daily routine of practice until you can't get it wrong while maintaining a variable balance betweeen creation and discovery of your highest pritority.
 
@@ -24,3 +27,5 @@ This repo uses material sourced from Zed's work and I added a bit of my own util
 4. "git add ." adds all to commit stage (not sure about recusive subs)
 5. "git commit -m 'message' " pushes the command back to the repo
 6. "git checkout -b '<branch name>' " then hit enter, then type "git branch" to confirm you wanted this done.
+
+
