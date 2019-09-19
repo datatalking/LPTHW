@@ -3,7 +3,11 @@
 from sys import argv
 
 script, user_name = argv
+if ValueError:
+	print("You need to run this from the CLI with a user name")
+	print("not enough values to unpack")
 prompt = '> '
+
 
 print("Hi %s, I'm the %s script." % (user_name, script))
 print("I'd like to ask you a few questions.")

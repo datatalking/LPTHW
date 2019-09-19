@@ -55,5 +55,12 @@ print("I estimate " + str(delta3.days) + " days until you graduate")
 
 # print("Today is the %d day of your life") % delta.days
 
+
+def sixty_sixty_thirty():
+	"""A method for pomodoro training, 60 min on is 50 t-time then 10 re-time,
+	do this twice then take a thirty minute break, use a timer"""
+	pass
+
+
 if __name__ == '__main__':
 	main()
